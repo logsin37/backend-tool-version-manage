@@ -1,0 +1,18 @@
+{
+  "modules": [
+    {
+      "name": "maven",
+      "shortName": "mvn",
+      "description": "Maven module",
+      "versions": [
+      ]
+    },
+    {
+      "name": "java",
+      "shortName": "jvm",
+      "description": "Java module",
+      "versions": [
+      ]
+    }
+  ]
+}
